@@ -1,0 +1,11 @@
+Name    : Cindy Adelia Setiawan
+NPM     : 1506689023
+Class   : OS D
+Week01  : 1. Clone repository from week00
+	  2. Create folders week00 - week10, log, key, xtra, and sand
+	  3. Create a file dummy for each folder except xtra
+	  4. Learn how to push files and pull repository, also remove files
+	  5. Learn how to use text editor(e.g vi, nano)
+	  6. Learn about operator ">" and ">>"
+	  7. Learn how to edit file and commit from web browser
+          8. Learn about scripting    
