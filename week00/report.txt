@@ -1,0 +1,7 @@
+Name    : Cindy Adelia Setiawan
+NPM     : 1506689023
+Class   : OS D
+Week00  : 1. Make Google account
+          2. Make Github account
+          3. Fill out information form
+          4. Login to badak.cs.ui.ac.id
