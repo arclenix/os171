@@ -20,3 +20,4 @@ drwxr-xr-x  2 cindy.adelia StafCS 4096 Feb 11 22:51 week09
 drwxr-xr-x  2 cindy.adelia StafCS 4096 Feb 11 22:51 week10
 drwxr-xr-x  2 cindy.adelia StafCS 4096 Feb 11 22:52 xtra
 /home/fasilkom/mahasiswa/c/cindy.adelia/os171/week01
+Today is 11 Feb 2017 at 23:53:47
