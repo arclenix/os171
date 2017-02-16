@@ -1,11 +1,13 @@
 w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer (Class)
 w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer (Class)
+w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer (Class)
 w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer (Class end at 14.40, material: until Virtualization)
 w00-170207-17-PS-About: Making Google Account, Github Account, and Repository on Github
 w00-170208-21-PS-About: Login to badak.cs.ui.ac.id
 w00-170208-21-LR-About: Introduction to Operating System, From: Slide (review from class + learn until system call)
 w00-170209-13-LR-About: Introduction to Operating System, From: Lecturer (Class)
 w00-170209-13-LR-About: Introduction to Operating System, From: Lecturer (Class)
+w00-170209-14-LR-About: Introduction to Operating System, From: Lecturer (Class)
 w00-170209-14-LR-About: Introduction to Operating System, From: Lecturer (Class end at 14.40, material: until Filesystem)
 w00-170212-22-PS-About: Week01 task
 w00-170212-22-PS-About: Week01 task
