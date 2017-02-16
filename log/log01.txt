@@ -1,0 +1,11 @@
+w01-170214-13-LR-About: HKI and Intro to Scripting, From: Lecturer (Class)
+w01-170214-13-LR-About: HKI and Intro to Scripting, From: Lecturer (Class)
+w01-170214-14-LR-About: HKI and Intro to Scripting, From: Lecturer (Class)
+w01-170214-14-LR-About: HKI and Intro to Scripting, From: Lecturer (Class end at 14.40)
+w01-170216-10-LR-About: Scripting, From: Slide
+w01-170216-10-LR-About: Scripting, From: Slide
+w01-170216-11-LR-About: Regular Expression, From: Slide
+w01-170216-13-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
+w01-170216-13-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
+w01-170216-14-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
+w01-170216-14-LR-About: Scripting and Regular Expression, From: Lecturer (Class end at 14.40)
