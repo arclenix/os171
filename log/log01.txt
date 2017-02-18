@@ -9,3 +9,7 @@ w01-170216-13-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
 w01-170216-13-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
 w01-170216-14-LR-About: Scripting and Regular Expression, From: Lecturer (Class)
 w01-170216-14-LR-About: Scripting and Regular Expression, From: Lecturer (Class end at 14.40)
+w01-170218-19-PS-About: Week02 task
+w01-170218-19-PS-About: Week02 task
+w01-170218-20-PS-About: Week02 task
+w01-170218-20-PS-About: Week02 task
