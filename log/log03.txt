@@ -1,12 +1,14 @@
-w00-170228-13-LR-About: BIOS and UEFI, From: Lecturer (Class)
-w00-170228-13-LR-About: BIOS and UEFI, From: Lecturer (Class)
-w00-170228-14-LR-About: BIOS and UEFI + Quiz, From: Lecturer (Class)
-w00-170228-14-LR-About: BIOS and UEFI + Quiz, From: Lecturer (Class end at 14.40)
-w00-170302-13-LR-About: Booting Procedure, From: Lecturer (Class)
-w00-170302-13-LR-About: Booting Procedure, From: Lecturer (Class)
-w00-170302-14-LR-About: Booting Procedure, From: Lecturer (Class)
-w00-170302-14-LR-About: Booting Procedure, From: Lecturer (Class end at 14.40)
-w00-170303-12-PS-About: Week03 task
-w00-170303-13-PS-About: Week03 task
-w00-170303-13-PS-About: Week03 task
-w00-170303-19-PS-About: Week03 task + Making log for week03
+w03-170228-13-LR-About: BIOS and UEFI, From: Lecturer (Class)
+w03-170228-13-LR-About: BIOS and UEFI, From: Lecturer (Class)
+w03-170228-14-LR-About: BIOS and UEFI + Quiz, From: Lecturer (Class)
+w03-170228-14-LR-About: BIOS and UEFI + Quiz, From: Lecturer (Class end at 14.40)
+w03-170302-13-LR-About: Booting Procedure, From: Lecturer (Class)
+w03-170302-13-LR-About: Booting Procedure, From: Lecturer (Class)
+w03-170302-14-LR-About: Booting Procedure, From: Lecturer (Class)
+w03-170302-14-LR-About: Booting Procedure, From: Lecturer (Class end at 14.40)
+w03-170303-12-PS-About: Week03 task
+w03-170303-13-PS-About: Week03 task
+w03-170303-13-PS-About: Week03 task
+w03-170303-19-PS-About: Week03 task + Making log for week03
+w03-170304-11-PS-About: Week04 task
+w03-170304-11-PS-About: Week04 task
