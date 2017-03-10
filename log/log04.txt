@@ -1,0 +1,12 @@
+w04-170306-13-LR-About: I/O Process, From: Lecturer (Class)
+w04-170306-13-LR-About: I/O Process, From: Lecturer (Class)
+w04-170306-14-LR-About: I/O Process, From: Lecturer (Class)
+w04-170306-14-LR-About: I/O Process, From: Lecturer (Class end at 14.40)
+w04-170308-13-LR-About: Pointer and Memory, From: Lecturer (Class)
+w04-170308-13-LR-About: Pointer and Memory, From: Lecturer (Class)
+w04-170308-14-LR-About: Pointer and Memory, From: Lecturer (Class)
+w04-170308-14-LR-About: Pointer and Memory, From: Lecturer (Class end at 14.40)
+w04-170309-12-PS-About: Week04 task
+w04-170309-12-PS-About: Week04 task
+w04-170309-13-PS-About: Week04 task
+w04-170309-13-PS-About: Week04 task + Making log for week04
