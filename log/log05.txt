@@ -2,10 +2,15 @@ w05-170314-13-LR-About: Memory, From: Lecturer (Class)
 w05-170314-13-LR-About: Memory, From: Lecturer (Class)
 w05-170314-14-LR-About: Memory, From: Lecturer (Class)
 w05-170314-14-LR-About: Memory, From: Lecturer (Class end at 14.40)
-w05-170314-19-LR-About: Week05 task
-w05-170314-19-LR-About: Week05 task
-w05-170314-20-LR-About: Week05 task
-w05-170314-20-LR-About: Week05 task
-w05-170314-21-LR-About: Week05 task
-w05-170314-21-LR-About: Week05 task
-w05-170314-22-LR-About: Week05 task + makin log for week05
+w05-170314-19-PS-About: Week05 task
+w05-170314-19-PS-About: Week05 task
+w05-170314-20-PS-About: Week05 task
+w05-170314-20-PS-About: Week05 task
+w05-170314-21-PS-About: Week05 task
+w05-170314-21-PS-About: Week05 task
+w05-170314-22-PS-About: Week05 task + makin log for week05
+w05-170316-13-LR-About: Memory, From: Lecturer (Class)
+w05-170316-13-LR-About: Memory, From: Lecturer (Class)
+w05-170316-14-LR-About: Memory, From: Lecturer (Class)
+w05-170316-14-LR-About: Memory, From: Lecturer (Class end at 14.40)
+
