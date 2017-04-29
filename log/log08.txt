@@ -1,0 +1,12 @@
+w08-170425-13-LR-About: Scheduling, From: Lecturer (Class)
+w08-170425-13-LR-About: Scheduling, From: Lecutrer (Class)
+w08-170425-14-LR-About: Exercise about scheduling, From: Lecturer (Class)
+w08-170425-14-LR-About: Exercise about scheduling, From: Lecturer (Class end at 14.40)
+w08-170428-13-LR-About: Socket, From: Lecturer (Class)
+w08-170428-13-LR-About: Socket, From: Lecutrer (Class)
+w08-170428-14-LR-About: Exercise about scheduling, From: Lecturer (Class)
+w08-170428-14-LR-About: Exercise about scheduling, From: Lecturer (Class end at 14.40)
+w08-170428-10-PS-About: Week08 task
+w08-170428-16-PS-About: Week08 task
+w08-170429-13-PS-About: Week08 task
+w08-170429-13-PS-About: Week08 task + making log for week08
